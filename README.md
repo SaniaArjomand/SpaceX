@@ -4,7 +4,7 @@ SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 mill
 
 SpaceX Objective
 
-We want to predict whether the rocket that launched before is able to land successfully? If it can land successfully, it would be able to be reused. We have used machine learning techniques to answer this question.
+We want to predict whether the rocket that launched before is able to land successfully? If it can land successfully, it would be able to be reused. We will use machine learning techniques to answer this question.
 
 This project consists of following stages:
 
