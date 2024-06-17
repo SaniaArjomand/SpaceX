@@ -8,12 +8,12 @@ We want to predict whether the rocket that launched before is able to land succe
 
 This project consists of following stages:
 
-1.Importing all necessary packages
+1. Importing all necessary packages
 
-2.Gaining insight into the dataset
+2. Gaining insight into the dataset
 
-3.Preprocessing
+3. Preprocessing
 
-4.Applying machine learning techniques
+4. Applying machine learning techniques
 
-5.Exporting the top-performing model based on results for future deployment
+5. Exporting the top-performing model based on results for future deployment
