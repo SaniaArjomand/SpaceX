@@ -72,7 +72,7 @@ The dataset contains 90 launches with 18 features, including:
 
 ## 🧠 Key Findings
 
-- **Structural and operational features strongly influence landing success:** boosters with landing legs, grid fins, newer block versions, higher reused counts, and later flights tend to land more reliably.  
+- **Structural and operational features strongly influence landing success:** boosters with landing legs, grid fins, newer block versions, and higher reused counts tend to land more reliably.  
 - **Simple models like Decision Tree and Support Vector Machine (SVM) achieved reasonable accuracy**, showing that even straightforward approaches can capture meaningful patterns in the data.  
 - **Data-driven predictions can help optimize first stage landing strategies**, providing actionable insights for SpaceX and other aerospace operations.
 
