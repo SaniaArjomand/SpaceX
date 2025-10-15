@@ -67,17 +67,6 @@ Decision Tree achieved the best performance among tested models.
 * Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 * Environment: Jupyter Notebook
 
-🚀 Getting Started
-1. Clone the repository:
-
-git clone <repo-url>
-2. Install dependencies:
-
-pip install -r requirements.txt
-3. Open and run the notebook:
-
-jupyter notebook Falcon9_Landing_Prediction.ipynb
-
 🔮 Future Work
 * Explore ensemble models (Random Forest, Gradient Boosting) for improved performance
 * Try deep learning approaches (Neural Networks)
